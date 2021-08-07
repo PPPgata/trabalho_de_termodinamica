@@ -1,0 +1,58 @@
+body {
+    width:98%;
+    height:98%;
+}
+.menu-principal {
+width: 100%;
+background-color: darkblue;
+height: 70px;
+}
+.header-1 {
+width: 900px
+}
+
+.calc-1 {
+
+width: 400px;
+background-color: orangered;
+height: 100px;
+border-radius: 20px;
+}
+
+.calc-2 {
+
+width: 400px;
+background-color: orange;
+height: 100px;
+border-radius: 20px;
+
+}
+
+.buttom {
+
+width: 300px;
+background-color: rgb(255, 208, 90);
+height: 70px;
+border-radius: 30px;
+}
+
+.fim {
+
+width: 100%;
+background-color: rgb(45, 45, 211);
+height: 100px;
+
+}
+
+#menu {
+position: fixed;
+right: 50;
+top: 570px;
+margin-top: -2.5em;
+font-family: arial;
+background-color: rgb(35, 131, 35);
+border-radius: 30px;
+height: 180px;
+width: 370px;
+
+}
